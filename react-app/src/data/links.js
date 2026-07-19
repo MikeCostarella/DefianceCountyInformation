@@ -14,12 +14,12 @@ export const CATEGORIES = [
 ];
 
 // The vendor that hosts the county Auditor's online parcel/property records.
-export const AUDITOR_VENDOR = "Data Dynamics (DDTI)";
+export const AUDITOR_VENDOR = "Pivot Point (Data Dynamics)";
 
 export const LINKS = [
   // ---------- Government ----------
   { name: "Defiance County (Official Site)", category: "Government", subcategory: "County", url: "https://www.defiance-county.com/", description: "Official government portal for Defiance County, Ohio (county seat: Defiance)." },
-  { name: "Defiance County Auditor", category: "Government", subcategory: "Auditor", url: "https://auditor.defiance-county.com/", description: "Property records, valuations, and parcel/property search (hosted on Data Dynamics/DDTI)." },
+  { name: "Defiance County Auditor", category: "Government", subcategory: "Auditor", url: "https://auditor.defiance-county.com/", description: "Property records, valuations, and parcel/property search (hosted on Pivot Point / Data Dynamics)." },
   { name: "Defiance County Board of Elections", category: "Government", subcategory: "Elections", url: "https://www.boe.ohio.gov/defiance/", description: "Voter registration, polling locations, and election administration." },
   { name: "City of Defiance", category: "Government", subcategory: "City", url: "https://www.cityofdefiance.com/", description: "Government site for the City of Defiance, the county seat." },
   // ---------- Education ----------
